@@ -22,7 +22,7 @@ List_of_files =[
     "requirements.text",
     "setup.py",
     "research/trials.ipynb",
-    "templates/index.html"~
+    "templates/index.html"
 ]
 for filepath in List_of_files:
     filepath=Path(filepath)
